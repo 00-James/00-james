@@ -50,6 +50,13 @@ A little about me
 <a href= "https://github.com/00-James"><img src = "https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white"> </a>
 <a href="https://www.linkedin.com/in/jamesbankole/"><img src = "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=White"> </a>
 
+
+
+
+
+
+
+<!-- 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -60,4 +67,4 @@ A little about me
 - ⚡ Fun fact: ...
 
 
-
+ -->
